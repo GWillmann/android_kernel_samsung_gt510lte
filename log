@@ -1,0 +1,32 @@
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Android bootimg, kernel size: 9181440 bytes, kernel addr: 0x80008000, ramdisk size: 3194213 bytes, ramdisk addr: 0x82000000, product name: ""
+2048          0x800           Linux kernel ARM boot executable zImage (little-endian)
+6056          0x17A8          LZ4 compressed data, legacy
+8019          0x1F53          LZ4 compressed data, legacy
+71111         0x115C7         AES S-Box
+73578         0x11F6A         AES Inverse S-Box
+690337        0xA88A1         Cisco IOS microcode, for ""
+1186268       0x1219DC        Certificate in DER format (x509 v3), header length: 4, sequence length: 4610
+1442150       0x160166        SHA256 hash constants, little endian
+1448791       0x161B57        Certificate in DER format (x509 v3), header length: 4, sequence length: 8195
+3717343       0x38B8DF        Certificate in DER format (x509 v3), header length: 4, sequence length: 5416
+7082798       0x6C132E        Cisco IOS microcode, for "|e"
+7256882       0x6EBB32        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256886       0x6EBB36        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256890       0x6EBB3A        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256894       0x6EBB3E        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256898       0x6EBB42        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256902       0x6EBB46        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+7256906       0x6EBB4A        Certificate in DER format (x509 v3), header length: 4, sequence length: 18
+8685133       0x84864D        LZ4 compressed data, legacy
+8714118       0x84F786        Certificate in DER format (x509 v3), header length: 4, sequence length: 13604
+9185280       0x8C2800        gzip compressed data, maximum compression, from Unix, last modified: 1970-01-01 00:00:00 (null date)
+12380160      0xBCE800        Qualcomm device tree container, version: 3, DTB entries: 28
+12382208      0xBCF000        Flattened device tree, size: 169951 bytes, version: 17
+12552192      0xBF8800        Flattened device tree, size: 169915 bytes, version: 17
+12722176      0xC22000        Flattened device tree, size: 173303 bytes, version: 17
+12896256      0xC4C800        Flattened device tree, size: 178310 bytes, version: 17
+13076480      0xC78800        Flattened device tree, size: 178084 bytes, version: 17
+
